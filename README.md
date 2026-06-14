@@ -79,6 +79,4 @@ GitHub
 
 https://github.com/baraajack
 
-Email
 
-abuarra.baraa@outlook.de
